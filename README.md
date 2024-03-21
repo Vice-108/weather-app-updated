@@ -1,6 +1,6 @@
 # weather-app
 
-This is a weather app made with vue3, Tailwind, vuetify.
+This weather app is made with vue3, Tailwind, vuetify.
 
 ## Recommended IDE Setup
 
